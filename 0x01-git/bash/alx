@@ -1,6 +1,2 @@
-#!/bin/bash
+!/bin/bash
 echo "ALX"
-
-cd .
-root@cbaf0abd3d87:/alx-pre_course/0x01-git/bash# cat > school
-root@cbaf0abd3d87:/alx-pre_course/0x01-git/bash#cd ..
